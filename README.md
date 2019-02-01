@@ -52,9 +52,18 @@ public static void main( String[] args )
 
 	}
 ```
-## Further information
-This work belongs to the abstract 'Konvertierung von MIMIC III – Daten zu FHIR' for GMDS Jahrestagung 2018. 
-If you have any questions, please send us an email.
+## Citation
+```
+@conference {1101,
+	title = {Konvertierung von MIMIC-III-Daten zu FHIR},
+	booktitle = {GMDS},
+	year = {2018},
+	address = {Osnabr{\"u}ck},
+	doi = {10.3205/18gmds018},
+	url = {https://www.egms.de/static/en/meetings/gmds2018/18gmds018.shtml},
+	author = {Stefanie Ververs and Ulrich, Hannes and Kock, Ann-Kristin and Ingenerf, Josef}
+}
+```
 
 ## License
 This source code is licensed under Apache License 2.0.
